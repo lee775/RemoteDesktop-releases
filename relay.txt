@@ -1,3 +1,2 @@
-﻿# 이 파일 첫 비주석 줄에 릴레이 wss URL 을 넣으면 앱이 자동 사용합니다.
-# 예: wss://remotedesktop-relay-xxxx.onrender.com/ws
-# (Render 배포 후 URL 을 여기에 커밋)
+﻿# 릴레이 wss URL (앱이 자동 사용). 첫 비주석 줄만 읽음.
+wss://remotedesktop-relay.onrender.com/ws
